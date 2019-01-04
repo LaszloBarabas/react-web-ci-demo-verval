@@ -1,4 +1,4 @@
 
 node_modules/*
 **/dist/*.js
-**/test/**/*.js
+**/__tests__/*.test.js
