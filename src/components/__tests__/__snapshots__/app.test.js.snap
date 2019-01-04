@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component   should render correctly  1`] = `
+<div>
+  React simple starter
+  <div>
+    <hr />
+    <Connect(CitiesContainer) />
+    <Connect(SelectedCityContainer) />
+    <hr />
+  </div>
+  <div>
+    <hr />
+    <Connect(SearchContainer) />
+    <hr />
+    <Connect(TemperatureInTheLocationContainer) />
+    <hr />
+  </div>
+</div>
+`;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Smart Container component:    CitiesContainer should render correctly  1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`Smart Container component:    SearchContainer should render correctly  1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`Smart Container component:    SelectedCityContainer should render correctly  1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`Smart Container component:    TemperatureInTheLocationContainer should render correctly  1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
