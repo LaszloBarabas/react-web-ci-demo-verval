@@ -6,7 +6,6 @@ import TemperatureInTheLocationContainer from '../containers/temperature-in-the-
 
 export default class App extends Component {
 	render() {
-        var a; 
 		return (
 			<div>
         React simple starter
